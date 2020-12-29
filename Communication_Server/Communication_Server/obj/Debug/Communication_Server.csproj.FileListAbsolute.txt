@@ -1,0 +1,31 @@
+C:\Users\luiji\Desktop\c#\Communication_Server\Communication_Server\bin\Debug\Communication_Server.exe.config
+C:\Users\luiji\Desktop\c#\Communication_Server\Communication_Server\bin\Debug\Communication_Server.exe
+C:\Users\luiji\Desktop\c#\Communication_Server\Communication_Server\bin\Debug\Communication_Server.pdb
+C:\Users\luiji\Desktop\c#\Communication_Server\Communication_Server\obj\Debug\Communication_Server.Form1.resources
+C:\Users\luiji\Desktop\c#\Communication_Server\Communication_Server\obj\Debug\Communication_Server.Properties.Resources.resources
+C:\Users\luiji\Desktop\c#\Communication_Server\Communication_Server\obj\Debug\Communication_Server.csproj.GenerateResource.cache
+C:\Users\luiji\Desktop\c#\Communication_Server\Communication_Server\obj\Debug\Communication_Server.csproj.CoreCompileInputs.cache
+C:\Users\luiji\Desktop\c#\Communication_Server\Communication_Server\obj\Debug\Communication_Server.exe
+C:\Users\luiji\Desktop\c#\Communication_Server\Communication_Server\obj\Debug\Communication_Server.pdb
+C:\Users\luiji\Desktop\c#\Communication_Server\Communication_Server\obj\Debug\Communication_Server.csprojAssemblyReference.cache
+C:\Users\luiji\Desktop\　\Communication_Server\Communication_Server\bin\Debug\Communication_Server.exe.config
+C:\Users\luiji\Desktop\　\Communication_Server\Communication_Server\bin\Debug\Communication_Server.exe
+C:\Users\luiji\Desktop\　\Communication_Server\Communication_Server\bin\Debug\Communication_Server.pdb
+C:\Users\luiji\Desktop\　\Communication_Server\Communication_Server\obj\Debug\Communication_Server.csprojAssemblyReference.cache
+C:\Users\luiji\Desktop\　\Communication_Server\Communication_Server\obj\Debug\Communication_Server.Form1.resources
+C:\Users\luiji\Desktop\　\Communication_Server\Communication_Server\obj\Debug\Communication_Server.Properties.Resources.resources
+C:\Users\luiji\Desktop\　\Communication_Server\Communication_Server\obj\Debug\Communication_Server.csproj.GenerateResource.cache
+C:\Users\luiji\Desktop\　\Communication_Server\Communication_Server\obj\Debug\Communication_Server.csproj.CoreCompileInputs.cache
+C:\Users\luiji\Desktop\　\Communication_Server\Communication_Server\obj\Debug\Communication_Server.exe
+C:\Users\luiji\Desktop\　\Communication_Server\Communication_Server\obj\Debug\Communication_Server.pdb
+C:\Project\0.C#\TCP_SERCLI\Communication_Server\Communication_Server\bin\Debug\Communication_Server.exe.config
+C:\Project\0.C#\TCP_SERCLI\Communication_Server\Communication_Server\bin\Debug\Communication_Server.exe
+C:\Project\0.C#\TCP_SERCLI\Communication_Server\Communication_Server\bin\Debug\Communication_Server.pdb
+C:\Project\0.C#\TCP_SERCLI\Communication_Server\Communication_Server\obj\Debug\Communication_Server.DlgExampleGraph.resources
+C:\Project\0.C#\TCP_SERCLI\Communication_Server\Communication_Server\obj\Debug\Communication_Server.cServer.resources
+C:\Project\0.C#\TCP_SERCLI\Communication_Server\Communication_Server\obj\Debug\Communication_Server.Properties.Resources.resources
+C:\Project\0.C#\TCP_SERCLI\Communication_Server\Communication_Server\obj\Debug\Communication_Server.csproj.GenerateResource.cache
+C:\Project\0.C#\TCP_SERCLI\Communication_Server\Communication_Server\obj\Debug\Communication_Server.csproj.CoreCompileInputs.cache
+C:\Project\0.C#\TCP_SERCLI\Communication_Server\Communication_Server\obj\Debug\Communication_Server.exe
+C:\Project\0.C#\TCP_SERCLI\Communication_Server\Communication_Server\obj\Debug\Communication_Server.pdb
+C:\Project\0.C#\TCP_SERCLI\Communication_Server\Communication_Server\obj\Debug\Communication_Server.csprojAssemblyReference.cache
